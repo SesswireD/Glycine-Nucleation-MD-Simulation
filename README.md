@@ -4,11 +4,11 @@ Master Thesis Project for Computational Science at the University of Amsterdam. 
 <table>
   <tr>
     <td align="center">
-      <img src="md_images/droplet.png" alt="Amorphous Cluster" width="200"><br>
+      <img src="md_images/droplet.png" alt="Amorphous Cluster" width="400"><br>
       <span>Step 1: Amorphous cluster formation</span>
     </td>
     <td align="center">
-      <img src="md_images/crystal.png" alt="Crystallization" width="200"><br>
+      <img src="md_images/crystal.png" alt="Crystallization" width="400"><br>
       <span>Step 2: Crystallization within cluster</span>
     </td>
   </tr>
