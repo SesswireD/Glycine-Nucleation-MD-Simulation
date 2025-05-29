@@ -27,12 +27,12 @@ The files are constructed to work with the [GROMACS](https://www.gromacs.org) MD
 
 ## Directory Structure
 ```md
-packages/button
+Glycine-Nucleation_MD-Simulation
 ├── Analysis
-│   ├── Figures
+│   ├── Figures                                  
 │   ├── combine_trajectories.ipynb
 │   ├── crystal_analyis.ipynb
-│   └──  plots.ipynb
+│   └── plots.ipynb
 ├── Molecular_System
 │   ├── Data
 │   ├── glycine_crystal_topology.py
@@ -40,6 +40,18 @@ packages/button
 │   ├── glycine_sphere_topology.py
 │   └── position_restraints.py
 └── md_images
+
+
+-- Figures/ - Folder where figures and plots are stored
+-- combine_trajectories.ipynb - Concatenates two molecular dynamics trajectories to produce a longer trajectory
+-- crystal_analysis.ipynb - Notebook for computing and visualization the degree of crystallinity for a molecular system
+-- plots.ipynb - Notebook for visualizing measures of the molecular systems
+-- Data/ - Contains atomic positions of the glycine molecule and crystals, obtained from experimental studies
+-- glycine_crystal_topology.py - Produces coordinates for a perfect glycine crystal in water
+-- glycine_monomer_topology.py - Produces coordinates for dispersed glycine monomers in water
+-- glycine_sphere_topology.py - Produces coordinates for a spherical glycine crystal with dispersed glycine molecules around it
+
+
 ```
 
 
