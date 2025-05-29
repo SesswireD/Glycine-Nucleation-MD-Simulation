@@ -4,12 +4,12 @@ Master Thesis Project for Computational Science at the University of Amsterdam. 
 <div style="display: flex; gap: 20px; justify-content: center;">
 
   <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="md_images/droplet.png" alt="Amorphous Cluster" width="300">
+    <img src="md_images/droplet.png" alt="Amorphous Cluster" width="200">
     <p style="text-align: center; margin-top: 5px;">Amorphous cluster</p>
   </div>
 
   <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="md_images/crystal.png" alt="Crystallization" width="300">
+    <img src="md_images/crystal.png" alt="Crystallization" width="200">
     <p style="text-align: center; margin-top: 5px;">Crystal</p>
   </div>
 
